@@ -11,3 +11,6 @@ wheels/
 
 # Environment variables
 .env
+
+# Project rules
+.project_rules.md
